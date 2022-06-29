@@ -1,11 +1,11 @@
-<img src="https://telegra.ph/file/190061b48aa72fab70e25.jpg" align="right" width="200" height="200"/>
+<img src="https://te.legra.ph/file/2f3ac095f138e5a0b56f4.jpg" align="right" width="200" height="200"/>
 
 <h3>⚠️ This repo is just a clone of YukkiMusic</a>. All credits goes to devs of YukkiMusicBot.</h3>
 
 
-# SuryaMusic
+# Harley Music
 
-[SuryaMusic](https://github.com/SuryaModsYT/SuryaModsMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+[Harley Music](https://github.com/Adarshuxd/HarleyMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso and Telegram Audios & Videos support.
 * Written from scratch, making it stable and less crashes.
@@ -21,7 +21,7 @@ Here's a brief high-level overview of the AviaxMusic:
 
 This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls) . Pyrogram is a modern, elegant and asynchronous MTProto API framework.
 
-* For database, SuryaMusic uses the MongoDB to store data and keys. [MongoDB](https://www.mongodb.com/) is a document database with the scalability and flexibility that you want with the querying and indexing that you need.
+* For database, Harley Music uses the MongoDB to store data and keys. [MongoDB](https://www.mongodb.com/) is a document database with the scalability and flexibility that you want with the querying and indexing that you need.
 * Project uses the bs4 web scrapping for getting many platform details. [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) is a Python library for pulling data out of HTML and XML files.
 * The project uses the font [`Poppins`](../assets/font.ttf) as its main font for the thumbnails.
 * The projects uses attractive images and icons which you can get in [assets](../assets/) directory.
@@ -32,12 +32,17 @@ For more information on the technologies that power the AviaxMusic, check out th
 
 # ⚡️ Getting Started
 
-### Before deploying SuryaMusic , please have a look towards [all available config vars](../config/README.md) , also please check [all available commands](../strings/command.yml) of the project.
+### Before deploying Harley Music , please have a look towards [all available config vars](../config/README.md) , also please check [all available commands](../strings/command.yml) of the project.
 
 > If you want to start working with SuryaMusic you can either fork or import repo .
 > The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
-> If you'd like to talk to us, join us on our [Telegram Group](https://telegram.me/SuryaBotsSupport)
+> If you'd like to talk to us, join us on our [Telegram Group](https://telegram.me/Anmoldost)
 
+
+## Heroku deploy
+
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Adarshuxd/HarleyMusicBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
+The easiest way to host this bot, Deploy on Heroku, Change the app country to Europe (it will help to make the bot more stable).
 
 ## 🖇 Prerequisites
 
@@ -81,16 +86,16 @@ shikhar@MacBook~ $ bash start
 
 Reach out to the maintainer at one of the following places:
 
-- [Updates Channel](https://telegram.me/SuryaBots)
-- [Support Group](https://telegram.me/SuryaBotsSupport)
+- [Updates Channel](https://telegram.me/Anmol_dost)
+- [Support Group](https://telegram.me/Anmol_dost)
 
 ## 🎗 Project assistance
 
 If you want to say **thank you** or/and support active development of SuryaMusic:
   
-- You Can Contact [SuryaModOwner](https://telegram.me/SuryaModOwner) on Telegram For Donation Towards This Music Bot.
+- You Can Contact [HarleyXD](https://telegram.me/HarleyXD) on Telegram For Donation Towards This Music Bot.
 
-- Add a [GitHub Star](https://github.com/SuryaModsYT/SuryaModsMusicBot) to the project.
+- Add a [GitHub Star](https://github.com/Adarshuxd/HarleyMusicBot) to the project.
 - Fork the Repo :)
 
 ## 👨🏻‍💻 Authors & contributors
