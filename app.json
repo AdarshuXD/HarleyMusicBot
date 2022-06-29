@@ -1,7 +1,7 @@
 {
-    "name": "SuryaMusic Bot",
+    "name": "Harley Music Bot",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
-    "logo": "https://telegra.ph/file/190061b48aa72fab70e25.jpg",
+    "logo": "https://te.legra.ph/file/2f3ac095f138e5a0b56f4.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -33,7 +33,7 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com . You can leave it unchanged if you want , bot will use Surya's database for you.",
-        "value": "mongodb+srv://suryaop:suryaop@cluster0.wmfdsy8.mongodb.net/?retryWrites=true&w=majority",
+        "value": "",
         "required": true
       },
       "MUSIC_BOT_NAME": {
@@ -43,7 +43,7 @@
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "5043850742",
+        "value": "",
         "required": true
       },
       "STRING_SESSION": {
@@ -68,7 +68,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/SuryaModsYT/SuryaModsMusicBot",
+        "value": "https://github.com/Adarshuxd/HarleyusicBot",
         "required": true
       },
       "UPSTREAM_BRANCH": {
